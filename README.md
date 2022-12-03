@@ -1,10 +1,10 @@
 # Модуль под названием **Git** по курсу SkillFactory.
 
 ## Дополнительные материалы:
-[Документация Git (Eng)](https://git-scm.com/docs)
-[Книга «Pro Git» (Rus)](https://git-scm.com/book/ru/v2)
-[Гид по изучению Git от Atlassian (Eng)](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
-[Gitflow Workflow (Eng)](https://www.atlassian.com/ru/git/tutorials/comparing-workflows/gitflow-workflow)
+* [Документация Git (Eng)](https://git-scm.com/docs)
+* [Книга «Pro Git» (Rus)](https://git-scm.com/book/ru/v2)
+* [Гид по изучению Git от Atlassian (Eng)](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
+* [Gitflow Workflow (Eng)](https://www.atlassian.com/ru/git/tutorials/comparing-workflows/gitflow-workflow)
 
 ## Итоговое задание (2.8) по модулю:
 * Установите Git на компьютер.
